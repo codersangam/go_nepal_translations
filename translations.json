@@ -11,6 +11,42 @@
         {
             "languageCode": "hi",
             "name": "Hindi"
+        },
+        {
+            "languageCode": "ar",
+            "name": "Arabic"
+        },
+        {
+            "languageCode": "zh",
+            "name": "Chinese"
+        },
+        {
+            "languageCode": "ru",
+            "name": "Russian"
+        },
+        {
+            "languageCode": "ja",
+            "name": "Japanese"
+        },
+        {
+            "languageCode": "ko",
+            "name": "Korean"
+        },
+        {
+            "languageCode": "pt",
+            "name": "Portuguese"
+        },
+        {
+            "languageCode": "de",
+            "name": "German"
+        },
+        {
+            "languageCode": "es",
+            "name": "Spanish"
+        },
+        {
+            "languageCode": "fr",
+            "name": "French"
         }
     ]
 }
