@@ -57,5 +57,21 @@
     "Time": "Tempo",
     "Kilometers": "Quilômetros",
     "Hours": "Horas",
-    "Destination": "Destino"
+    "Destination": "Destino",
+    "Delete your account": "Exclua sua conta",
+    "Delete Account": "Excluir Conta",
+    "Are you sure you want to delete your account? This action cannot be undone.": "Tem certeza de que deseja excluir sua conta? Esta ação não pode ser desfeita.",
+    "Delete": "Excluir",
+    "Cancel": "Cancelar",
+    "My Journeys": "Minhas jornadas",
+    "Sign in to your account": "Entre na sua conta",
+    "Enter your email address & password.": "Digite seu endereço de e-mail e senha.",
+    "Password": "Senha",
+    "Forgot Password?": "Esqueceu a senha?",
+    "Login": "Entrar",
+    "Don't have an account?": "Não tem uma conta?",
+    "Create new account": "Criar nova conta",
+    "Enter your personal details to continue.": "Digite seus dados pessoais para continuar.",
+    "Register": "Registrar",
+    "Already have an account?": "Já tem uma conta?"
 }

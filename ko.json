@@ -57,5 +57,21 @@
     "Time": "시간",
     "Kilometers": "킬로미터",
     "Hours": "시간",
-    "Destination": "목적지"
+    "Destination": "목적지",
+    "Delete your account": "계정을 삭제하세요",
+    "Delete Account": "계정 삭제",
+    "Are you sure you want to delete your account? This action cannot be undone.": "계정을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",
+    "Delete": "삭제",
+    "Cancel": "취소",
+    "My Journeys": "내 여행",
+    "Sign in to your account": "계정에 로그인하세요",
+    "Enter your email address & password.": "이메일 주소와 비밀번호를 입력하세요.",
+    "Password": "비밀번호",
+    "Forgot Password?": "비밀번호를 잊으셨나요?",
+    "Login": "로그인",
+    "Don't have an account?": "계정이 없으신가요?",
+    "Create new account": "새 계정 만들기",
+    "Enter your personal details to continue.": "계속하려면 개인 정보를 입력하세요.",
+    "Register": "등록",
+    "Already have an account?": "이미 계정이 있으신가요?"
 }

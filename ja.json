@@ -57,5 +57,21 @@
     "Time": "時間",
     "Kilometers": "キロメートル",
     "Hours": "時間",
-    "Destination": "目的地"
+    "Destination": "目的地",
+    "Delete your account": "アカウントを削除する",
+    "Delete Account": "アカウント削除",
+    "Are you sure you want to delete your account? This action cannot be undone.": "本当にアカウントを削除しますか？この操作は元に戻せません。",
+    "Delete": "削除",
+    "Cancel": "キャンセル",
+    "My Journeys": "私の旅",
+    "Sign in to your account": "アカウントにサインイン",
+    "Enter your email address & password.": "メールアドレスとパスワードを入力してください。",
+    "Password": "パスワード",
+    "Forgot Password?": "パスワードをお忘れですか？",
+    "Login": "ログイン",
+    "Don't have an account?": "アカウントをお持ちではありませんか？",
+    "Create new account": "新しいアカウントを作成",
+    "Enter your personal details to continue.": "続行するには個人情報を入力してください。",
+    "Register": "登録",
+    "Already have an account?": "すでにアカウントをお持ちですか？"
 }

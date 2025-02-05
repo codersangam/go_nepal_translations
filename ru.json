@@ -57,5 +57,21 @@
     "Time": "Время",
     "Kilometers": "Километры",
     "Hours": "Часы",
-    "Destination": "Пункт назначения"
+    "Destination": "Пункт назначения",
+    "Delete your account": "Удалите вашу учетную запись",
+    "Delete Account": "Удалить учетную запись",
+    "Are you sure you want to delete your account? This action cannot be undone.": "Вы уверены, что хотите удалить свою учетную запись? Это действие нельзя отменить.",
+    "Delete": "Удалить",
+    "Cancel": "Отмена",
+    "My Journeys": "Мои путешествия",
+    "Sign in to your account": "Войдите в свой аккаунт",
+    "Enter your email address & password.": "Введите ваш email и пароль.",
+    "Password": "Пароль",
+    "Forgot Password?": "Забыли пароль?",
+    "Login": "Войти",
+    "Don't have an account?": "Нет аккаунта?",
+    "Create new account": "Создать новый аккаунт",
+    "Enter your personal details to continue.": "Введите свои личные данные, чтобы продолжить.",
+    "Register": "Регистрация",
+    "Already have an account?": "Уже есть аккаунт?"
 }

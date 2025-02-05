@@ -57,5 +57,21 @@
     "Time": "时间",
     "Kilometers": "公里",
     "Hours": "小时",
-    "Destination": "目的地"
+    "Destination": "目的地",
+    "Delete your account": "删除您的账户",
+    "Delete Account": "删除账户",
+    "Are you sure you want to delete your account? This action cannot be undone.": "您确定要删除您的账户吗？此操作无法撤销。",
+    "Delete": "删除",
+    "Cancel": "取消",
+    "My Journeys": "我的旅程",
+    "Sign in to your account": "登录您的账户",
+    "Enter your email address & password.": "输入您的电子邮件地址和密码。",
+    "Password": "密码",
+    "Forgot Password?": "忘记密码？",
+    "Login": "登录",
+    "Don't have an account?": "没有账户？",
+    "Create new account": "创建新账户",
+    "Enter your personal details to continue.": "输入您的个人信息以继续。",
+    "Register": "注册",
+    "Already have an account?": "已有账户？"
 }

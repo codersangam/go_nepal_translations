@@ -57,5 +57,21 @@
     "Time": "समय",
     "Kilometers": "किलोमीटर",
     "Hours": "घण्टा",
-    "Destination": "गंतव्य"
+    "Destination": "गंतव्य",
+    "Delete your account": "अपने खाते को हटाएं",
+    "Delete Account": "खाता हटाएं",
+    "Are you sure you want to delete your account? This action cannot be undone.": "क्या आप वाकई अपना खाता हटाना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता।",
+    "Delete": "हटाएं",
+    "Cancel": "रद्द करें",
+    "My Journeys": "मेरी यात्राएँ",
+    "Sign in to your account": "अपने खाते में साइन इन करें",
+    "Enter your email address & password.": "अपना ईमेल पता और पासवर्ड दर्ज करें।",
+    "Password": "पासवर्ड",
+    "Forgot Password?": "पासवर्ड भूल गए?",
+    "Login": "लॉगिन",
+    "Don't have an account?": "खाता नहीं है?",
+    "Create new account": "नया खाता बनाएं",
+    "Enter your personal details to continue.": "जारी रखने के लिए अपनी व्यक्तिगत जानकारी दर्ज करें।",
+    "Register": "रजिस्टर करें",
+    "Already have an account?": "पहले से ही खाता है?"
 }

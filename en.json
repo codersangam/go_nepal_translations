@@ -57,5 +57,21 @@
     "Time": "Time",
     "Kilometers": "Kilometers",
     "Hours": "Hours",
-    "Destination": "Destination"
+    "Destination": "Destination",
+    "Delete your account": "Delete your account",
+    "Delete Account": "Delete Account",
+    "Are you sure you want to delete your account? This action cannot be undone.": "Are you sure you want to delete your account? This action cannot be undone.",
+    "Delete": "Delete",
+    "Cancel": "Cancel",
+    "My Journeys": "My Journeys",
+    "Sign in to your account": "Sign in to your account",
+    "Enter your email address & password.": "Enter your email address & password.",
+    "Password": "Password",
+    "Forgot Password?": "Forgot Password?",
+    "Login": "Login",
+    "Don't have an account?": "Don't have an account?",
+    "Create new account": "Create new account",
+    "Enter your personal details to continue.": "Enter your personal details to continue.",
+    "Register": "Register",
+    "Already have an account?": "Already have an account?"
 }
