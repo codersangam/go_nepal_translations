@@ -74,5 +74,8 @@
     "Enter your personal details to continue.": "Saisissez vos informations personnelles pour continuer.",
     "Register": "S'inscrire",
     "Already have an account?": "Vous avez déjà un compte ?",
-    "Create your new account": "Créez votre nouveau compte"
+    "Create your new account": "Créez votre nouveau compte",
+    "Forgot your account password?": "Vous avez oublié votre mot de passe?",
+    "Enter your email address to recover.": "Entrez votre adresse e-mail pour récupérer.",
+    "Recover": "Récupérer"
 }

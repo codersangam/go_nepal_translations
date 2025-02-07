@@ -74,5 +74,8 @@
     "Enter your personal details to continue.": "Enter your personal details to continue.",
     "Register": "Register",
     "Already have an account?": "Already have an account?",
-    "Create your new account": "Create your new account"
+    "Create your new account": "Create your new account",
+    "Forgot your account password?": "Forgot your account password?",
+    "Enter your email address to recover.": "Enter your email address to recover.",
+    "Recover": "Recover"
 }

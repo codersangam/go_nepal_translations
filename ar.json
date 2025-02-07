@@ -74,5 +74,8 @@
     "Enter your personal details to continue.": "أدخل بياناتك الشخصية للمتابعة.",
     "Register": "تسجيل",
     "Already have an account?": "هل لديك حساب بالفعل؟",
-    "Create your new account": "أنشئ حسابك الجديد"
+    "Create your new account": "أنشئ حسابك الجديد",
+    "Forgot your account password?": "هل نسيت كلمة مرور حسابك؟",
+    "Enter your email address to recover.": "أدخل عنوان بريدك الإلكتروني لاستعادته.",
+    "Recover": "استعادة"
 }

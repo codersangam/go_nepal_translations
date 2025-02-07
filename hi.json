@@ -74,5 +74,8 @@
     "Enter your personal details to continue.": "जारी रखने के लिए अपनी व्यक्तिगत जानकारी दर्ज करें।",
     "Register": "रजिस्टर करें",
     "Already have an account?": "पहले से ही खाता है?",
-    "Create your new account": "अपना नया खाता बनाएं"
+    "Create your new account": "अपना नया खाता बनाएं",
+    "Forgot your account password?": "क्या आपने अपना खाता पासवर्ड भूल गए?",
+    "Enter your email address to recover.": "पुनर्प्राप्त करने के लिए अपना ईमेल पता दर्ज करें।",
+    "Recover": "पुनर्प्राप्त करें"
 }
